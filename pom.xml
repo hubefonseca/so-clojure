@@ -32,9 +32,8 @@
                         <goals>
                             <goal>compile</goal>
                         </goals>
-                        <phase>compile</phase>
+                        <phase>process-resources</phase>
                     </execution>
-
                 </executions>
             </plugin>
             <plugin>
